@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/amir-banner.png" alt="Amir Al-Rashayda — Backend thinking. Systems curiosity. From process scheduling to the stories of Jerusalem." width="100%">
+  <img src="assets/amir-banner-v2.png" alt="Amir Al-Rashayda — Backend · Systems · Research. Hebron / Birzeit / Málaga. Limestone banner with a burgundy Palestinian tatreez-inspired motif." width="100%">
 </p>
 
 <p align="center">
